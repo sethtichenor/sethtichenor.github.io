@@ -1,7 +1,3 @@
 ---
-title: "Seth Tichenor"
+site: blogdown:::blogdown_site
 ---
-
-![](indexSeth.jpg)
-
-I am a PhD candidate at Michigan State University in the department of communicative science and disorders. I am a person who stutters and a Speech-Language Pathologist. I am actively involved with various support organizations for people who stutter, national and international stuttering organizations, and practice clinically. I live in Lansing, Michigan with my wife (Allison) and our puppy (Charlie).
